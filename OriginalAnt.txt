@@ -1,0 +1,62 @@
+(Comp.sys.handhelds)
+Item: 3797 by catto at author.ecn.purdue.edu
+Author: [Erin S Catto]
+Subj: Ant v1.0 Library for HP48sx
+Date: Fri Aug 02 1991
+
+
+Ant v1.0, "In Search of Coke"
+=============================
+
+   Rumours through the grape vine of the local ant community indicate that
+   there is a partially empty Coke can in Zoom's room.  So far many brave ants
+   have gone in search of the mystic can, yet none have returned.  They are
+   feared to be dead.  It is your mission as Bink to find a safe path to the
+   Coke can so that others may follow.  Beware, however, for Zoom has set many
+   treacherous obstacles to block you and booby traps to zap you.  Bink has
+   only his cool nerves and jumping ability (the only jumping ant in the world)
+   to help him on this journey.
+
+
+What is: Ant v1.0 is a SCHIP v1.1 game contained in a library which includes
+         SCHIP v1.1 and accessory programs written in System RPL.  SCHIP v1.1
+         is accessible to run other games, such as H. Piper and Joust.
+
+How:     Ant v1.0 was programmed using the Chipper assembler.  The System RPL
+         bits were written using Hewlett Packard's System RPL compiler.
+         Graphics and animation were developed on the HP48 using the graphics
+         interface and User RPL.  The final directory containing the programs
+         and GROBs was con- verted into a library using HP's PC based program
+         USRLIB.EXE.
+
+Play:    Enter the library menu.  Enter the Ant library.  Execute INFO.  Read
+         the credits.  Press any key.  Read the key assignments.  Press any
+         key.  Press BEEP (actually BEeP) menu key to toggle the RPL music.
+         Press ANT to enter the title screen.  Press any key (except ATTN, will
+         abort) to play the game.  Use the key assignments noted in the INFO
+         program.
+
+Using SCHIP:  Put your SCHIP program string into level one. Press SCHIP.
+              You may want to put the SCHIP command in your CST menu.
+
+Hints:    1) Pressing the jump key and the right key simultaneously will help
+             clearing large obstacles.  Actually, press the jump key slightly
+             ahead of the right key.  
+          2) Being of little mass, Bink can stop on a dime and change course in
+             mid-air at will.
+          3) This game has no randomization.  Learn the terrain.
+
+Credits:  1) Erik Bryntse:  SCHIP v1.1.
+          2) Christian Egeberg:  Chipper Assembler v1.12.
+          3) Andreas Gustafsson:  Original adaption of CHIP to the HP48
+          4) I take full credit for the design and development of Ant v1.0.
+             The game theme is original as far as I know.
+
+Notice:   1) I take no blame for worn calculator keys.
+          2) There are many tricks to getting around Ant v1.0.  Be aware of
+             spoilers when posting to the net.
+          3) Surprisingly only about 3.2 kbytes out of the 11 kbytes library
+             are used by the SCHIP Ant game.  About 2.2 kbytes are taken by
+             SCHIP.  It would not be unresonable for me to release an
+             abreviated version if requests are given.
+          4) Have fun and give me feedback.
