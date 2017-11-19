@@ -8,3 +8,5 @@ Ported original SCHIP code to Lua and the Love2D framwork. Preserved original pi
  - Multiple lives and checkpoints
 
 You can read the USENET post for Ant v1.0 here: [OriginalAnt.txt](OriginalAnt.txt)
+
+![Ant Splashscreen](assets/SplashScreen.png)
